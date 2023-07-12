@@ -1,0 +1,6 @@
+body{ background-color: burlywood; margin: 0;}
+html{ padding: 0%;}
+.sidebar1{ border-style:inherit ; float: right; width: 25%; margin-left: 0%;}
+.sidebar2{ border-style:inherit; float: left; width: 20%; margin-left: 0px; margin-right: 6px}
+.sidebar3{ border-style: ; float: right; width: 25%; margin-left: 0%; margin-right: 5px;}
+.main{ border-style: ; margin-left: 23%; margin-right: 54%;margin-bottom: 80%;}
